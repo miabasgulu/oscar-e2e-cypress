@@ -1,0 +1,12 @@
+{
+  "oscarBaseUrl": "https://www.hioscar.com/",
+  "year2023": "2023",
+  "drug": "Lipitor",
+  "careProvider": "Jophin Johnson",
+  "hospital": "Memorial Regional Hospital",
+  "findADoctor": "Find a Doctor",
+  "invalidKeyword": "Invalid Keyword",
+  "noResult": "No results. Try another search",
+  "medicareAdvantage": "Medicare Advantage",
+  "findCarePageTitle": "Search in-network providers, facilities, and drugs"
+}
